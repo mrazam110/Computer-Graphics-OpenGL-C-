@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cenry", "cenry\cenry.vcxproj", "{A2964E63-DBB4-4CE2-BCC5-19305D5BF132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2964E63-DBB4-4CE2-BCC5-19305D5BF132}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2964E63-DBB4-4CE2-BCC5-19305D5BF132}.Debug|Win32.Build.0 = Debug|Win32
+		{A2964E63-DBB4-4CE2-BCC5-19305D5BF132}.Release|Win32.ActiveCfg = Release|Win32
+		{A2964E63-DBB4-4CE2-BCC5-19305D5BF132}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
